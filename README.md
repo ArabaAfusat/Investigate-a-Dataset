@@ -1,1 +1,2 @@
-# Investigate-a-Dataset
+# Investigate-a-Dataset (No-Show Appointments)
+### This is a Brasilian medical appointment dataset of people which consists of various variables (dependent and independent). The probability of people showing up or not for their medical appointment depends on the independant variables of this dataset. That is why we have No-Show as our dependant variable because some factors must be considered to predict whether a patient will show up for the appointment or not.
